@@ -6,22 +6,20 @@
 
 ##  Data provided in this repo: 
 
-- Alignments
-- Trees
+- Alignments and Trees for (polB, ubiquitin and DNMPK) 
 - Scripts 
+- Data 
 
+---
 
+## Description
 
-
+---
 ## Sripts
 
+`extract_vibrant_phages.sh`:  Extract nucleotide and amino acid FASTA from individual viruses predicted with VIBRANT.
+
+---
 
 
 
-### `Last updated`  
-
-August 25th, 2021
-
-### `extract_vibrant_phages.sh`
-
-Extract nucleotide and amino acid FASTA from individual viruses predicted with VIBRANT.
