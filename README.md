@@ -10,17 +10,16 @@
 - Scripts 
 - Data 
 
----
 
 ## Description
 
----
+
 ## Sripts
 
-`extract_vibrant_phages.sh`:  Extract nucleotide and amino acid FASTA from individual viruses predicted with VIBRANT.
+extract_vibrant_phages.sh:  Extract nucleotide and amino acid FASTA from individual viruses predicted with VIBRANT.
 
 [archaeavirussizes.html](https://bakermicrolab.github.io/asgardviruses/archaeavirussizes.html) 
----
+
 
 
 
